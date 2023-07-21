@@ -13,7 +13,6 @@ import datetime  # datetime module supplies classes for manipulating dates and t
 import subprocess  # subprocess module allows you to spawn new processes
 
 # master
-import pyjokes # for generating random jokes
 import requests
 import json
 from PIL import Image, ImageGrab
